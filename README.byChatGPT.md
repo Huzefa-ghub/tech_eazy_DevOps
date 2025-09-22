@@ -47,8 +47,8 @@ aws configure list-profiles
 ### 3. Clone the Repository
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/Huzefa-ghub/tech_eazy_DevOps.git
+cd tech_eazy_DevOps
 ```
 
 ### 4. Update `main.tf`
